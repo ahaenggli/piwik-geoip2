@@ -1,4 +1,7 @@
 # Piwik GeoIP2 Plugin
+Project "MaxMind GeoIP2 Location Provider for Piwik" ist deprecated, please use the Matomo GeoIP2-PlugIn instead:
+https://plugins.matomo.org/GeoIP2
+
 
 ## Description
 
